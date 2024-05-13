@@ -11,37 +11,21 @@ const FullCard = () => {
           <img
             className="blog-image"
             src="./src/assets/image1.svg"
-            alt=""
-            width={400}
-            height={150}
+            alt="Olabisi Ajayi"
+            width={40}
+            height={40}
           />
         </div>
 
-        {/* =======Card Title====== */}
-        <div>
-          <h3>Title</h3>
-        </div>
+
 
         {/* =========Card Description======== */}
         <div className="description-wrapper">
-          <p>
-            description text will be here,description text will be
-            here,description text will be here.. description text will be here.
-            <br />
-            description text will be here.. description text will be here
-            description text will be here,description text will be
-            here,description text will be here.. description text will be here.
-            <br />
-            description text will be here.. description text will be here
-            description text will be here,description text will be
-            here,description text will be here.. description text will be here.
-            <br />
-            description text will be here.. description text will be here
-            description text will be here,description text will be
-            here,description text will be here.. description text will be here.
-            <br />
-            description text will be here.. description text will be here
-          </p>
+          <div>
+            <h3>Name :</h3>
+            <p>Olabisi Ajayi</p>
+          </div>
+          
         </div>
       </div>
     </div>

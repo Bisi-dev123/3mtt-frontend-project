@@ -15,3 +15,11 @@
     border: 0.1px solid #3DB1F2;
     margin: 0 auto;
   }
+
+  h3{
+    font-weight: 700;
+  }
+
+  p{
+    font-weight: 500;
+  }
